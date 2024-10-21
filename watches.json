@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Rolex Submariner", "price": 8500 },
+  { "id": 2, "name": "Omega Speedmaster", "price": 5200 },
+  { "id": 3, "name": "Tag Heuer Carrera", "price": 3200 },
+  { "id": 4, "name": "Breitling Navitimer", "price": 7200 },
+  { "id": 5, "name": "Audemars Piguet Royal Oak", "price": 24000 },
+  { "id": 6, "name": "Seiko Prospex", "price": 650 },
+  { "id": 7, "name": "Casio G-Shock", "price": 120 },
+  { "id": 8, "name": "Tissot Le Locle", "price": 600 },
+  { "id": 9, "name": "Hublot Big Bang", "price": 15000 },
+  { "id": 10, "name": "Patek Philippe Nautilus", "price": 30000 }
+]
